@@ -1,4 +1,4 @@
-package com.howbuy.mockitodemo;
+package com.lyw.mockitodemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

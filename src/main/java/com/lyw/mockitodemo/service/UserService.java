@@ -1,8 +1,8 @@
-package com.howbuy.mockitodemo.service;
+package com.lyw.mockitodemo.service;
 
-import com.howbuy.mockitodemo.domain.User;
-import com.howbuy.mockitodemo.repo.UserRepo;
-import com.howbuy.mockitodemo.service.ext.IdentityVerifyService;
+import com.lyw.mockitodemo.domain.User;
+import com.lyw.mockitodemo.repo.UserRepo;
+import com.lyw.mockitodemo.service.ext.IdentityVerifyService;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

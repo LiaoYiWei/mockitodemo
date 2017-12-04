@@ -1,4 +1,4 @@
-package com.howbuy.mockitodemo.service.ext;
+package com.lyw.mockitodemo.service.ext;
 
 /**
  * <p>注释</p>

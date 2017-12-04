@@ -1,4 +1,4 @@
-package com.howbuy.mockitodemo.service.ext;
+package com.lyw.mockitodemo.service.ext;
 
 import org.springframework.stereotype.Service;
 

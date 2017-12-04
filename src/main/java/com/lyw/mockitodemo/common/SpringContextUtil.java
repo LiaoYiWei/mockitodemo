@@ -1,4 +1,4 @@
-package com.howbuy.mockitodemo.common;
+package com.lyw.mockitodemo.common;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

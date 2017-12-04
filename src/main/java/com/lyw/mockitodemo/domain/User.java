@@ -1,8 +1,6 @@
-package com.howbuy.mockitodemo.domain;
+package com.lyw.mockitodemo.domain;
 
 import lombok.Data;
-
-import java.util.Objects;
 
 /**
  * <p>注释</p>

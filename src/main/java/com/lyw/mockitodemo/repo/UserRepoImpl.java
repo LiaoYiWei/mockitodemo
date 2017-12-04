@@ -1,6 +1,6 @@
-package com.howbuy.mockitodemo.repo;
+package com.lyw.mockitodemo.repo;
 
-import com.howbuy.mockitodemo.domain.User;
+import com.lyw.mockitodemo.domain.User;
 import org.springframework.stereotype.Repository;
 
 /**
